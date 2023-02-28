@@ -1,0 +1,1 @@
+{"name":"Joe","year":2002,"author":"Joe Taslim","summary":"Ketika Hujan Gak Jadi","publisher":"90","pageCount":129,"readPage":10,"reading":false,"id":"0gYtIW5qfqrw2a4l","insertAt":"2023-02-28T08:50:01.923Z","updatedAt":"2023-02-28T08:50:01.923Z","finished":false}
